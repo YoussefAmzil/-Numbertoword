@@ -1,0 +1,11 @@
+{
+  "name": "convertnumber2word",
+  "version": "1.1.0",
+  "description": "this package help you to convert a number or digitz to word",
+  "main": "Number2word.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "youssef.amzil",
+  "license": "ISC"
+}
